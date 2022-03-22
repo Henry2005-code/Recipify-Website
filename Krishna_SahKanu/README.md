@@ -1,1 +1,1 @@
-# receipe-website
+# recipify-website
